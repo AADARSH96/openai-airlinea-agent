@@ -1,0 +1,6 @@
+# Core SDK
+openai-agents==0.2.10
+
+# Utilities used in the sample app
+pydantic>=2.6,<3
+nest_asyncio>=1.6.0
